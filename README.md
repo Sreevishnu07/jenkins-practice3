@@ -8,4 +8,4 @@
 - Integrated GitHub with Jenkins using webhooks for automatic pipeline triggering on push
 - Pipeline stages include: Build → Test → Docker Build → Run Container
 - Configured email notifications using Jenkins for build failures
-- Demonstrates end-to-end CI workflow with code, build, containerization, and automation..
+- Demonstrates end-to-end CI workflow with code, build, containerization, and automation.
